@@ -18,7 +18,7 @@ Whether it's crafting intuitive user interfaces or designing scalable backend sy
 
 Here are some of the technologies I work with regularly:
 
-- **Languages:** Python, C++, Java, C#, SQL, XAML, XML, HTML  
+- **Languages:** Python, C++, Java, JavaScript, C#, SQL, XAML, XML, HTML  
 - **Frameworks & Libraries:** .NET, WinAppSDK, ASP.NET, Android SDK
 - **Tools & Platforms:** Git, Visual Studio, Android Studio, Eclipse, IntelliJ, PyCharm, Unity
 
