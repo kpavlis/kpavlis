@@ -11,7 +11,7 @@ Whether it's crafting intuitive user interfaces or designing scalable backend sy
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kpavlis&theme=darkhub&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kpavlis&theme=darkhub&row=1&column=6&margin-w=5" />
 </p>
 
 ## 🛠️ Tech Toolbox
@@ -32,6 +32,12 @@ Here are some of the technologies I work with regularly:
 
 Take a look at some of my pinned repositories — each one reflects a unique challenge and a creative solution. From web apps to AI projects, I aim to build tools that are both functional and enjoyable to use.
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpavlis&theme=dark" width="410" />
+</p>
+
 ## 🌱 Beyond Code
 
 When I'm not coding, you'll probably find me:
@@ -39,12 +45,6 @@ When I'm not coding, you'll probably find me:
 - Reading about emerging tech trends and innovations 
 - Exploring nature or taking photos  
 - Swimming to clear my mind and spark new ideas 
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpavlis&theme=dark" width="410" />
-</p>
 
 ## 📫 Let's Connect
 
