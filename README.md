@@ -33,4 +33,4 @@ I'm always open to collaboration, feedback, or just a friendly chat. Feel free t
 
 ---
 
-Thanks for visiting — may your bugs be few and your commits meaningful! 🚀
+Appreciate your visit — keep exploring, keep building, and let curiosity be your compass. 🚀
