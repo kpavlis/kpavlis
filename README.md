@@ -8,6 +8,12 @@ I'm a software developer based in Athens, Greece, with a deep passion for buildi
 
 Whether it's crafting intuitive user interfaces or designing scalable backend systems, I enjoy every step of the development journey. I believe in clean code, continuous improvement, and the power of collaboration.
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kpavlis&theme=darkhub&row=1&column=6" />
+</p>
+
 ## 🛠️ Tech Toolbox
 
 Here are some of the technologies I work with regularly:
@@ -33,6 +39,12 @@ When I'm not coding, you'll probably find me:
 - Reading about emerging tech trends and innovations 
 - Exploring nature or taking photos  
 - Swimming to clear my mind and spark new ideas 
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpavlis&theme=dark" width="410" />
+</p>
 
 ## 📫 Let's Connect
 
